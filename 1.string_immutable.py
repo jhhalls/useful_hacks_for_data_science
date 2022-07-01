@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 21 23:02:34 2020
 
-@author: jhhalls
+@author: jhalls
 """
 
 #The strings are immutable in python
