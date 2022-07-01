@@ -1,7 +1,7 @@
 """
 Created on Wed Jul 29 21:21:22 2020
 
-@author: jhhalls
+@author: jhalls
 
 """
 
